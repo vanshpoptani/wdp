@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>inline and block element</title>
+    <link rel="stylesheet" href="make.css">
+</head>
+
+<body>
+    <p>hey i am a para </p>
+    <a href="https://google.com"> google</a>
+    <div>I am a block element</div>
+    <span> I nam span and I am inline</span>
+    <a href="">yes iam inline</a>
+</body>
+
+</html>
